@@ -6,6 +6,7 @@ This is a small project I made to test IBM Cloud Watson Services using React.js 
 
 - [React.js](https://reactjs.org/) v17.0.2
 - [FastApi](https://fastapi.tiangolo.com/) v0.65.1
+- [Python](https://www.python.org/downloads/) v3.7+
 - [IBM Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech)
 - [IBM Watson Language Translator](https://www.ibm.com/watson/services/language-translator/)
 
