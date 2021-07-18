@@ -49,7 +49,7 @@ yarn
 Once installed you can run the server with the following command
 
 ```bash
-yarn serve
+yarn start
 ```
 
 **You also need to add the API URL in a .env file to consume the services**
