@@ -1,6 +1,6 @@
 # IBM-Text-To-Speech-Demo
 
-This is a small project I made to test IBM Cloud Watson Services using React.js and FastApi.
+This is a small project We made to test IBM Cloud Watson Services using React.js and FastApi.
 
 ## Stack and Services
 
@@ -14,11 +14,12 @@ This is a small project I made to test IBM Cloud Watson Services using React.js 
 
 ### Backend
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all dependencies (required to run the server)
+Use the package manager [pipenv](https://pipenv.pypa.io/en/latest/) to install all dependencies (required to run the server)
 
 ```bash
 cd backend
-pip install -r requirements.txt
+python -m pipenv install
+python -m pipenv shell
 ```
 
 Once installed you can run the server with the following command
