@@ -39,7 +39,7 @@ TRANSLATOR_VERSION='resource version'
 
 ### Frontend
 
-Run the following command to install all dependencies
+You need [yarn](https://yarnpkg.com/) to run the server. Run the following commands to install all dependencies.
 
 ```bash
 cd client
