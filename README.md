@@ -1,6 +1,6 @@
 # IBM-Text-To-Speech-Demo
 
-This is a small project I made to test IBM Cloud Watson Services using Vue.js and FastApi.
+This is a small project I made to test IBM Cloud Watson Services using React.js and FastApi.
 
 ## Stack and Services
 
@@ -55,5 +55,5 @@ yarn serve
 **You also need to add the API URL in a .env file to consume the services**
 
 ```env
-REACT_APP_URL='host where the backend server is running'
+REACT_APP_URL='host where the backend server is running'/api/v1/text_to_speech
 ```
